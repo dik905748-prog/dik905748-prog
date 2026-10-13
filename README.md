@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm kedi 👋
 
-<!--
-**dik905748-prog/dik905748-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Python Developer & AI-Native Tool Explorer based in Osaka. Focused on workflow automation, developer tooling, and modern LLM integrations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+
+- **Languages & Frameworks:** Python, Shell scripting
+- **DevOps & Engineering:** Git, GitHub Actions, CI/CD Pipelines
+- **AI & Platforms:** Gemini API / Google AI Studio, OpenAI, Framer
+
+---
+
+### 🚀 Projects
+
+- **[maintflow](https://github.com/dik905748-prog/maintflow)**: AI-powered CLI toolkit for open source maintainers — generate release notes, summarize pull requests, and triage issues right from your terminal.
+- *(Coming Soon)*: Micro-tools & workflow agents powered by LLMs.
+
+---
+
+### 📬 Connect With Me
+
+- GitHub: [@dik905748-prog](https://github.com/dik905748-prog)
+- Email: [dik905748@gmail.com](mailto:dik905748@gmail.com)
